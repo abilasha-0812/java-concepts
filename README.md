@@ -1,2 +1,2 @@
 # java-concepts
-concepts related to java
+concepts related to java programming
